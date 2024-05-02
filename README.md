@@ -2,6 +2,13 @@
 
 Easily open files in GitHub for sharing or linking.
 
+## Installation
+
+[lazy.nvim](https://github.com/folke/lazy.nvim)
+```lua
+{ "mcastorina/git-remote.nvim" }
+```
+
 ## Configuration
 
 ```lua
